@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "reveric-guide": {
+      "command": "node",
+      "args": [
+        "mcp-server.mjs"
+      ]
+    }
+  }
+}
